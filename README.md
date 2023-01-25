@@ -1,3 +1,3 @@
 # lcrgn
 
-# Bidouilleuse Junior 👌
+# Développeur Web & Web Mobile Junior
